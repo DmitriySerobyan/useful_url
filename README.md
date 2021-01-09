@@ -19,3 +19,5 @@
 [MongoDB. Построение запросов, оптимизация, индексирование](https://www.youtube.com/watch?v=_I9vLOAsFew)
 
 [Все, что тимлид должен знать о найме и увольнении](https://www.youtube.com/watch?v=ZTtkyFjvyJQ)
+
+[Паттерны проектирования](https://refactoring.guru/ru/design-patterns)
