@@ -15,3 +15,7 @@
 [Внутреннее устройство PostgreSQL](https://www.youtube.com/watch?v=jGOkSerUPw4)
 
 [Производительность запросов в PostgreSQL](https://www.youtube.com/watch?v=c-ySk8COI1c)
+
+[MongoDB. Построение запросов, оптимизация, индексирование](https://www.youtube.com/watch?v=_I9vLOAsFew)
+
+[Все, что тимлид должен знать о найме и увольнении](https://www.youtube.com/watch?v=ZTtkyFjvyJQ)
