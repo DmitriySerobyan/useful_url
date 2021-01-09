@@ -21,3 +21,5 @@
 [Все, что тимлид должен знать о найме и увольнении](https://www.youtube.com/watch?v=ZTtkyFjvyJQ)
 
 [Паттерны проектирования](https://refactoring.guru/ru/design-patterns)
+
+[Podlodka Podcast](https://podlodka.io/#issues)
