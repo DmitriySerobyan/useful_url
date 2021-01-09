@@ -12,3 +12,6 @@
 
 [Видео лекции AI и ML](https://www.youtube.com/channel/UCfelJa0QlJWwPEZ6XNbNRyA/featured)
 
+[Внутреннее устройство PostgreSQL](https://www.youtube.com/watch?v=jGOkSerUPw4)
+
+[Производительность запросов в PostgreSQL](https://www.youtube.com/watch?v=c-ySk8COI1c)
