@@ -23,3 +23,5 @@
 [Паттерны проектирования](https://refactoring.guru/ru/design-patterns)
 
 [Podlodka Podcast](https://podlodka.io/#issues)
+
+[IntelliJ IDEA debugging best practices](https://medium.com/swlh/intellij-idea-debugging-best-practices-e374ae9a7ed8)
