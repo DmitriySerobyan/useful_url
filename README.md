@@ -27,3 +27,5 @@
 [IntelliJ IDEA debugging best practices](https://medium.com/swlh/intellij-idea-debugging-best-practices-e374ae9a7ed8)
 
 [I Hate Regex база шаблонов регулярок](https://ihateregex.io/)
+
+[Graph Data Structure And Algorithms](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
