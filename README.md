@@ -10,6 +10,8 @@
 
 [Как работает ClickHouse](https://www.youtube.com/watch?v=vbhSrZxm66E)
 
+[Graph DB](https://www.youtube.com/watch?v=36qScpX3DsU)
+
 [Видео лекции AI и ML](https://www.youtube.com/channel/UCfelJa0QlJWwPEZ6XNbNRyA/featured)
 
 [Внутреннее устройство PostgreSQL](https://www.youtube.com/watch?v=jGOkSerUPw4)
