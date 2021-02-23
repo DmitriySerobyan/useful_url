@@ -31,3 +31,5 @@
 [I Hate Regex база шаблонов регулярок](https://ihateregex.io/)
 
 [Graph Data Structure And Algorithms](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+
+[Прагматика Java Memory Model](https://www.youtube.com/watch?v=iB2N8aqwtxc)
