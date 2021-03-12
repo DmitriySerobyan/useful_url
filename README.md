@@ -33,3 +33,5 @@
 [Graph Data Structure And Algorithms](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
 
 [Прагматика Java Memory Model](https://www.youtube.com/watch?v=iB2N8aqwtxc)
+
+[Подкаст Базы данных](https://podlodka.io/101)
