@@ -35,3 +35,5 @@
 [Прагматика Java Memory Model](https://www.youtube.com/watch?v=iB2N8aqwtxc)
 
 [Подкаст Базы данных](https://podlodka.io/101)
+
+[Дебагинг в IntelliJ IDEA](https://www.youtube.com/watch?v=9joO-89mVQk)
