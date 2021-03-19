@@ -39,3 +39,5 @@
 [Дебагинг в IntelliJ IDEA](https://www.youtube.com/watch?v=9joO-89mVQk)
 
 [Подкаст Распределенные системы](https://www.youtube.com/watch?v=cX40G-Z_82A)
+
+[Целостность данных в микросервисной архитектуре](https://www.youtube.com/watch?v=6HvSpqBc8fA)
