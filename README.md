@@ -37,3 +37,5 @@
 [Подкаст Базы данных](https://podlodka.io/101)
 
 [Дебагинг в IntelliJ IDEA](https://www.youtube.com/watch?v=9joO-89mVQk)
+
+[Подкаст Распределенные системы](https://www.youtube.com/watch?v=cX40G-Z_82A)
