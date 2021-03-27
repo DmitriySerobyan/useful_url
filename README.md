@@ -43,3 +43,5 @@
 [Целостность данных в микросервисной архитектуре](https://www.youtube.com/watch?v=6HvSpqBc8fA)
 
 [PostgreSQL Vacuum](https://www.youtube.com/watch?v=TDWC66qzxCs)
+
+[Teamlead Roadmap](https://tlroadmap.io/)
