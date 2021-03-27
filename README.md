@@ -41,3 +41,5 @@
 [Подкаст Распределенные системы](https://www.youtube.com/watch?v=cX40G-Z_82A)
 
 [Целостность данных в микросервисной архитектуре](https://www.youtube.com/watch?v=6HvSpqBc8fA)
+
+[PostgreSQL Vacuum](https://www.youtube.com/watch?v=TDWC66qzxCs)
