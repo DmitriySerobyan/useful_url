@@ -45,3 +45,5 @@
 [PostgreSQL Vacuum](https://www.youtube.com/watch?v=TDWC66qzxCs)
 
 [Teamlead Roadmap](https://tlroadmap.io/)
+
+[Как подсидеть тимлида](https://www.youtube.com/watch?v=xL9zM09NDTk)
