@@ -47,3 +47,5 @@
 [Teamlead Roadmap](https://tlroadmap.io/)
 
 [Как подсидеть тимлида](https://www.youtube.com/watch?v=xL9zM09NDTk)
+
+[Тимлид не программирует! Что должен делать менеджер программистов?](https://www.youtube.com/watch?v=65zn96QkYLk)
