@@ -51,3 +51,5 @@
 [Тимлид не программирует! Что должен делать менеджер программистов?](https://www.youtube.com/watch?v=65zn96QkYLk)
 
 [HBase](https://www.youtube.com/watch?v=UqDp4_f69ug)
+
+[Евгений Борисов — Spring-построитель](https://www.youtube.com/watch?v=rd6wxPzXQvo)
