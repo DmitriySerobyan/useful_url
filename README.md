@@ -57,3 +57,5 @@
 [Asynchronous Data Streams with Kotlin Flow by Roman Elizarov](https://www.youtube.com/watch?v=tYcqn48SMT8)
 
 [Вячеслав Круглов — Введение в Hibernate: что, зачем, и где стандартные ловушки](https://www.youtube.com/watch?v=C-wEZjEOhWc)
+
+[Prometheus как time series database / Тимур Нурутдинов (Lamoda)](https://www.youtube.com/watch?v=5g6NAKzTKTs)
