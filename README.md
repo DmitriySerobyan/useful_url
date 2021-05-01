@@ -1,61 +1,40 @@
 # Полезные ссылки
 
-[Визуальный raft](http://thesecretlivesofdata.com/raft/)
-
-[Визуальный paxos](https://isaacwr.github.io/thesecretlivesofdata/paxos/)
-
-[Sharding: patterns and antipatterns](https://www.youtube.com/watch?v=URHoFbn4rt8)
-
-[Принципы и приёмы обработки очередей](https://www.youtube.com/watch?v=CvT1v7xiRS0)
-
-[Как работает ClickHouse](https://www.youtube.com/watch?v=vbhSrZxm66E)
-
-[Graph DB](https://www.youtube.com/watch?v=36qScpX3DsU)
-
-[Видео лекции AI и ML](https://www.youtube.com/channel/UCfelJa0QlJWwPEZ6XNbNRyA/featured)
-
-[Внутреннее устройство PostgreSQL](https://www.youtube.com/watch?v=jGOkSerUPw4)
-
-[Производительность запросов в PostgreSQL](https://www.youtube.com/watch?v=c-ySk8COI1c)
-
-[MongoDB. Построение запросов, оптимизация, индексирование](https://www.youtube.com/watch?v=_I9vLOAsFew)
-
-[Все, что тимлид должен знать о найме и увольнении](https://www.youtube.com/watch?v=ZTtkyFjvyJQ)
-
-[Паттерны проектирования](https://refactoring.guru/ru/design-patterns)
-
-[Podlodka Podcast](https://podlodka.io/#issues)
-
-[IntelliJ IDEA debugging best practices](https://medium.com/swlh/intellij-idea-debugging-best-practices-e374ae9a7ed8)
-
-[I Hate Regex база шаблонов регулярок](https://ihateregex.io/)
-
-[Graph Data Structure And Algorithms](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
-
-[Прагматика Java Memory Model](https://www.youtube.com/watch?v=iB2N8aqwtxc)
-
-[Подкаст Базы данных](https://podlodka.io/101)
-
-[Дебагинг в IntelliJ IDEA](https://www.youtube.com/watch?v=9joO-89mVQk)
-
-[Подкаст Распределенные системы](https://www.youtube.com/watch?v=cX40G-Z_82A)
-
-[Целостность данных в микросервисной архитектуре](https://www.youtube.com/watch?v=6HvSpqBc8fA)
-
-[PostgreSQL Vacuum](https://www.youtube.com/watch?v=TDWC66qzxCs)
-
-[Teamlead Roadmap](https://tlroadmap.io/)
-
-[Как подсидеть тимлида](https://www.youtube.com/watch?v=xL9zM09NDTk)
-
-[Тимлид не программирует! Что должен делать менеджер программистов?](https://www.youtube.com/watch?v=65zn96QkYLk)
-
-[HBase](https://www.youtube.com/watch?v=UqDp4_f69ug)
-
-[Евгений Борисов — Spring-построитель](https://www.youtube.com/watch?v=rd6wxPzXQvo)
-
-[Asynchronous Data Streams with Kotlin Flow by Roman Elizarov](https://www.youtube.com/watch?v=tYcqn48SMT8)
-
-[Вячеслав Круглов — Введение в Hibernate: что, зачем, и где стандартные ловушки](https://www.youtube.com/watch?v=C-wEZjEOhWc)
-
-[Prometheus как time series database / Тимур Нурутдинов (Lamoda)](https://www.youtube.com/watch?v=5g6NAKzTKTs)
+- [Asynchronous Data Streams with Kotlin Flow by Roman Elizarov](https://www.youtube.com/watch?v=tYcqn48SMT8)
+- [Graph Data Structure And Algorithms](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+- [Graph DB](https://www.youtube.com/watch?v=36qScpX3DsU)
+- [HBase](https://www.youtube.com/watch?v=UqDp4_f69ug)
+- [I Hate Regex база шаблонов регулярок](https://ihateregex.io/)
+- [IntelliJ IDEA debugging best practices](https://medium.com/swlh/intellij-idea-debugging-best-practices-e374ae9a7ed8)
+- [MongoDB. Построение запросов, оптимизация, индексирование](https://www.youtube.com/watch?v=_I9vLOAsFew)
+- [Podlodka Podcast](https://podlodka.io/#issues)
+- [PostgreSQL Vacuum](https://www.youtube.com/watch?v=TDWC66qzxCs)
+- [Prometheus как time series database / Тимур Нурутдинов (Lamoda)](https://www.youtube.com/watch?v=5g6NAKzTKTs)
+- [Sharding: patterns and antipatterns](https://www.youtube.com/watch?v=URHoFbn4rt8)
+- [Teamlead Roadmap](https://tlroadmap.io/)
+- [Алексей Шипилёв — Прагматика Java Memory Model](https://www.youtube.com/watch?v=iB2N8aqwtxc)
+- [Большие проекты, архитектура и фреймворки. Александр Макаров](https://www.youtube.com/watch?v=GY5xSmLnSG0)
+- [Видео лекции AI и ML](https://www.youtube.com/channel/UCfelJa0QlJWwPEZ6XNbNRyA/featured)
+- [Визуальный paxos](https://isaacwr.github.io/thesecretlivesofdata/paxos/)
+- [Визуальный raft](http://thesecretlivesofdata.com/raft/)
+- [Внутреннее устройство PostgreSQL](https://www.youtube.com/watch?v=jGOkSerUPw4)
+- [Все, что тимлид должен знать о найме и увольнении / Степан Овчинников (ИНТЕРВОЛГА)](https://www.youtube.com/watch?v=ZTtkyFjvyJQ)
+- [Все, что тимлид должен знать о найме и увольнении](https://www.youtube.com/watch?v=ZTtkyFjvyJQ)
+- [Вячеслав Круглов — Введение в Hibernate: что, зачем, и где стандартные ловушки](https://www.youtube.com/watch?v=C-wEZjEOhWc)
+- [Дебагинг в IntelliJ IDEA](https://www.youtube.com/watch?v=9joO-89mVQk)
+- [Девять кругов ада или PostgreSQL Vacuum / Алексей Лесовский (PostgreSQL-Consulting LLC)](https://www.youtube.com/watch?v=TDWC66qzxCs)
+- [Евгений Борисов — Spring-построитель](https://www.youtube.com/watch?v=rd6wxPzXQvo)
+- [Евгений Кривошеев — Как не угробить архитектуру сразу же](https://www.youtube.com/watch?v=_Kex5hwGE-w)
+- [Как подсидеть тимлида](https://www.youtube.com/watch?v=xL9zM09NDTk)
+- [Как работает ClickHouse](https://www.youtube.com/watch?v=vbhSrZxm66E)
+- [Как устроены базы данных / Илья Космодемьянский (Data Egret)](https://www.youtube.com/watch?v=c4_5rqvmDFU)
+- [Паттерны проектирования](https://refactoring.guru/ru/design-patterns)
+- [Подкаст Базы данных](https://podlodka.io/101)
+- [Подкаст Распределенные системы](https://www.youtube.com/watch?v=cX40G-Z_82A)
+- [Принципы и приёмы обработки очередей](https://www.youtube.com/watch?v=CvT1v7xiRS0)
+- [Производительность запросов в PostgreSQL / Илья Космодемьянский (PostgreSQL Consulting)](https://www.youtube.com/watch?v=c-ySk8COI1c)
+- [Производительность запросов в PostgreSQL](https://www.youtube.com/watch?v=c-ySk8COI1c)
+- [Распознавание речи: как сделать Speech-to-Text своими руками / Иван Бондаренко (МФТИ)](https://www.youtube.com/watch?v=eke2h9fGtu0)
+- [Тимлид не программирует! Что должен делать менеджер программистов?](https://www.youtube.com/watch?v=65zn96QkYLk)
+- [Целостность данных в микросервисной архитектуре / Николай Голов (Avito)](https://www.youtube.com/watch?v=6HvSpqBc8fA)
+- [Целостность данных в микросервисной архитектуре](https://www.youtube.com/watch?v=6HvSpqBc8fA)
