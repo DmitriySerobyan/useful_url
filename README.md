@@ -38,3 +38,4 @@
 - [Тимлид не программирует! Что должен делать менеджер программистов?](https://www.youtube.com/watch?v=65zn96QkYLk)
 - [Целостность данных в микросервисной архитектуре / Николай Голов (Avito)](https://www.youtube.com/watch?v=6HvSpqBc8fA)
 - [Целостность данных в микросервисной архитектуре](https://www.youtube.com/watch?v=6HvSpqBc8fA)
+- [Видеокурс по Scala 2 2020](https://www.youtube.com/watch?v=T-fIGEPSynM&list=PLr3MOSSJVvAFDW8sY3qbowgMa-eFplLcG)
