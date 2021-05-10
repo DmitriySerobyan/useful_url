@@ -39,3 +39,5 @@
 - [Целостность данных в микросервисной архитектуре / Николай Голов (Avito)](https://www.youtube.com/watch?v=6HvSpqBc8fA)
 - [Целостность данных в микросервисной архитектуре](https://www.youtube.com/watch?v=6HvSpqBc8fA)
 - [Видеокурс по Scala 2 2020](https://www.youtube.com/watch?v=T-fIGEPSynM&list=PLr3MOSSJVvAFDW8sY3qbowgMa-eFplLcG)
+- [Николай Алименков — Парадигмы ООП](https://www.youtube.com/watch?v=G6LJkWwZGuc)
+- [Неочевидные Дженерики](https://www.youtube.com/watch?v=_0c9Fd9FacU)
