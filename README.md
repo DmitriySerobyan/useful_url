@@ -41,3 +41,4 @@
 - [Видеокурс по Scala 2 2020](https://www.youtube.com/watch?v=T-fIGEPSynM&list=PLr3MOSSJVvAFDW8sY3qbowgMa-eFplLcG)
 - [Николай Алименков — Парадигмы ООП](https://www.youtube.com/watch?v=G6LJkWwZGuc)
 - [Неочевидные Дженерики](https://www.youtube.com/watch?v=_0c9Fd9FacU)
+- [Роман Елизаров — Корутины в Kotlin](https://www.youtube.com/watch?v=rB5Q3y73FTo)
