@@ -42,3 +42,4 @@
 - [Николай Алименков — Парадигмы ООП](https://www.youtube.com/watch?v=G6LJkWwZGuc)
 - [Неочевидные Дженерики](https://www.youtube.com/watch?v=_0c9Fd9FacU)
 - [Роман Елизаров — Корутины в Kotlin](https://www.youtube.com/watch?v=rB5Q3y73FTo)
+- [PostgreSQL: практические примеры оптимизации SQL-запросов / Иван Фролков (Postgres Professional)](https://www.youtube.com/watch?v=dm_oid1HVfQ)
