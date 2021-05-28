@@ -33,8 +33,8 @@
 - [Подкаст Распределенные системы](https://www.youtube.com/watch?v=cX40G-Z_82A)
 - [Принципы и приёмы обработки очередей](https://www.youtube.com/watch?v=CvT1v7xiRS0)
 - [Производительность запросов в PostgreSQL / Илья Космодемьянский (PostgreSQL Consulting)](https://www.youtube.com/watch?v=c-ySk8COI1c)
-- [Производительность запросов в PostgreSQL](https://www.youtube.com/watch?v=c-ySk8COI1c)
 - [Распознавание речи: как сделать Speech-to-Text своими руками / Иван Бондаренко (МФТИ)](https://www.youtube.com/watch?v=eke2h9fGtu0)
+- [Роман Елизаров — Корутины в Kotlin](https://www.youtube.com/watch?v=rB5Q3y73FTo)
 - [Тимлид не программирует! Что должен делать менеджер программистов?](https://www.youtube.com/watch?v=65zn96QkYLk)
 - [Целостность данных в микросервисной архитектуре / Николай Голов (Avito)](https://www.youtube.com/watch?v=6HvSpqBc8fA)
-- [Целостность данных в микросервисной архитектуре](https://www.youtube.com/watch?v=6HvSpqBc8fA)
+
