@@ -14,6 +14,7 @@
 - [Sharding: patterns and antipatterns](https://www.youtube.com/watch?v=URHoFbn4rt8)
 - [Teamlead Roadmap](https://tlroadmap.io/)
 - [Алексей Шипилёв — Прагматика Java Memory Model](https://www.youtube.com/watch?v=iB2N8aqwtxc)
+- [Андрей Паньгин — Память Java процесса по полочкам](https://www.youtube.com/watch?v=kKigibHrV5I)
 - [Андрей Солнцев — Пацан накодил — пацан протестил!](https://www.youtube.com/watch?v=8u6_hctdhqI)
 - [Большие проекты, архитектура и фреймворки. Александр Макаров](https://www.youtube.com/watch?v=GY5xSmLnSG0)
 - [Видео лекции AI и ML](https://www.youtube.com/channel/UCfelJa0QlJWwPEZ6XNbNRyA/featured)
