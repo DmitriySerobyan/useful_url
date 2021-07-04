@@ -41,5 +41,6 @@
 - [Распознавание речи: как сделать Speech-to-Text своими руками / Иван Бондаренко (МФТИ)](https://www.youtube.com/watch?v=eke2h9fGtu0)
 - [Роман Гребенников — Страх и ненависть в распределенных системах](https://www.youtube.com/watch?v=nNzhUGx99JE)
 - [Роман Елизаров — Корутины в Kotlin](https://www.youtube.com/watch?v=rB5Q3y73FTo)
+- [Создаем свой ЯЗЫК ПРОГРАММИРОВАНИЯ. Лексер, Парсер, Абстрактное синтаксическое дерево (AST)](https://www.youtube.com/watch?v=Ezt3vBok5_s)
 - [Тимлид не программирует! Что должен делать менеджер программистов?](https://www.youtube.com/watch?v=65zn96QkYLk)
 - [Целостность данных в микросервисной архитектуре / Николай Голов (Avito)](https://www.youtube.com/watch?v=6HvSpqBc8fA)
